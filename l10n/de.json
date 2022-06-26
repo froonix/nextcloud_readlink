@@ -1,0 +1,10 @@
+{
+	"translations":
+	{
+		"Display full path": "Vollständigen Pfad anzeigen",
+		"Could not get full path!": "Der vollständige Pfad konnte nicht ermittelt werden!",
+		"External URL:": "Externe URL:",
+		"Local path:": "Lokaler Pfad:"
+	},
+	"pluralForm": "nplurals=2; plural=(n != 1);"
+}

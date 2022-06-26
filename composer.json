@@ -1,0 +1,15 @@
+{
+    "name": "Read Link",
+    "description": "Display real path of directories and files",
+    "type": "project",
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "Christian Schrötter"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    }
+}
