@@ -2,6 +2,9 @@ $(document).ready
 (
 	function()
 	{
+		// TODO!
+		return;
+
 		var actionsReadLink =
 		{
 			init: function()

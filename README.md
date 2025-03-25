@@ -9,7 +9,7 @@ Shared files and directories located at external storages are **not** supported 
 The app name is a reference to the `readlink` program/function. 😁
 
 ## Compatibility
-Tested at Nextcloud 24 with PHP 8.0
+<s>Tested at Nextcloud 31 with PHP 8.3</s>
 
 ## Installation
 This app is **not** available at the official [App Store](http://apps.nextcloud.com/)!
